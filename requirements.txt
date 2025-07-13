@@ -4,3 +4,4 @@ numpy
 plotly
 geojson-rewind
 requests
+lxml.etree
